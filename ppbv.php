@@ -1,7 +1,7 @@
 <?php 
 /*
-Plugin Name: Popular Posts
-Description: Display most popular posts
+Plugin Name: Popular Posts by Views
+Description: Display most popular posts by views
 Version: 1.0
 Author: Angel Sih
 Author URI: http://www.angelsih.com
